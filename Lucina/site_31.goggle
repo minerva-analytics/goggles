@@ -1,0 +1,27 @@
+! name: site 31
+! description: Configures Brave Search for site 31 preferred sites
+! public: false
+! author: Minerva Analytics
+
+$boost=4,site=popsugar.com
+$boost=4,site=healthline.com
+$boost=4,site=oprahdaily.com
+$boost=4,site=yogajournal.com
+$boost=4,site=harvard.edu
+$boost=4,site=medicalnewstoday.com
+$boost=4,site=health.com
+$boost=4,site=everydayhealth.com
+$boost=4,site=webmd.com
+$boost=4,site=putthekettleon.ca
+$boost=3,site=silkandsonder.com
+$boost=3,site=yahoo.com
+$boost=3,site=mintnotion.com
+$boost=3,site=topoptionstoday.com
+$boost=3,site=womenshealthmag.com
+$boost=3,site=lifehack.org
+$boost=3,site=psychologytoday.com
+$boost=3,site=littleredwindow.com
+$boost=3,site=marthastewart.com
+$boost=3,site=theremoteyogi.com
+$discard,site=britannica.com
+$discard,site=en.wikipedia.org
