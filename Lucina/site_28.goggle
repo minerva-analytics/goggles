@@ -1,0 +1,27 @@
+! name: site 28
+! description: Configures Brave Search for site 28 preferred sites
+! public: false
+! author: Minerva Analytics
+
+$boost=4,site=nasa.gov
+$boost=4,site=sandiegozoo.org
+$boost=4,site=space.com
+$boost=4,site=noaa.gov
+$boost=4,site=natgeokids.com
+$boost=4,site=mentalfloss.com
+$boost=4,site=wwf.org.uk
+$boost=4,site=treehugger.com
+$boost=4,site=nationalgeographic.com
+$boost=4,site=si.edu
+$boost=3,site=audubon.org
+$boost=3,site=smithsonianmag.com
+$boost=3,site=thoughtco.com
+$boost=3,site=livescience.com
+$boost=3,site=usgs.gov
+$boost=3,site=pbs.org
+$boost=3,site=sciencekids.co.nz
+$boost=3,site=healthline.com
+$boost=3,site=nationalgeographic.org
+$boost=3,site=nwf.org
+$discard,site=britannica.com
+$discard,site=en.wikipedia.org
