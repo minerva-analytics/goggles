@@ -16,12 +16,12 @@ $boost=4,site=putthekettleon.ca
 $boost=3,site=silkandsonder.com
 $boost=3,site=yahoo.com
 $boost=3,site=mintnotion.com
+$boost=3,site=topoptionstoday.com
 $boost=3,site=womenshealthmag.com
 $boost=3,site=lifehack.org
 $boost=3,site=psychologytoday.com
 $boost=3,site=littleredwindow.com
 $boost=3,site=marthastewart.com
 $boost=3,site=theremoteyogi.com
-$boost=3,site=hearthsidecomforts.com
 $discard,site=britannica.com
 $discard,site=en.wikipedia.org
