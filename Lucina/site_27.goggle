@@ -1,0 +1,27 @@
+! name: site 27
+! description: Configures Brave Search for site 27 preferred sites
+! public: false
+! author: Minerva Analytics
+
+$boost=4,site=wandercooks.com
+$boost=4,site=carolinescooking.com
+$boost=4,site=pardonyourfrench.com
+$boost=4,site=thewoksoflife.com
+$boost=4,site=clkmg.com
+$boost=4,site=oliviascuisine.com
+$boost=4,site=recipetineats.com
+$boost=4,site=spanishsabores.com
+$boost=4,site=insidetherustickitchen.com
+$boost=4,site=isabeleats.com
+$boost=3,site=giverecipe.com
+$boost=3,site=nonnabox.com
+$boost=3,site=asassyspoon.com
+$boost=3,site=myforkinglife.com
+$boost=3,site=mygreekdish.com
+$boost=3,site=drivemehungry.com
+$boost=3,site=196flavors.com
+$boost=3,site=chefsavvy.com
+$boost=3,site=weeatatlast.com
+$boost=3,site=foodfromportugal.com
+$discard,site=britannica.com
+$discard,site=en.wikipedia.org

@@ -1,0 +1,27 @@
+! name: site 18
+! description: Configures Brave Search for site 18 preferred sites
+! public: false
+! author: Minerva Analytics
+
+$boost=4,site=mashed.com
+$boost=4,site=smithsonianmag.com
+$boost=4,site=museumofplay.org
+$boost=4,site=history.com
+$boost=4,site=softschools.com
+$boost=4,site=backthenhistory.com
+$boost=4,site=aaa.com
+$boost=4,site=mentalfloss.com
+$boost=4,site=time.com
+$boost=4,site=yamaha.com
+$boost=3,site=si.edu
+$boost=3,site=invent.org
+$boost=3,site=seriouseats.com
+$boost=3,site=americacomesalive.com
+$boost=3,site=thoughtco.com
+$boost=3,site=crfashionbook.com
+$boost=3,site=heddels.com
+$boost=3,site=thespruceeats.com
+$boost=3,site=spiceography.com
+$boost=3,site=toyhalloffame.org
+$discard,site=britannica.com
+$discard,site=en.wikipedia.org
